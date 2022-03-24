@@ -101,6 +101,7 @@ body .hero .stars .quote {
 body .hero .stars .quote p {
   font-family: "SpartanBold";
   font-size: 0.8em;
+  color: #502050;
 }
 body .hero .stars .quote .rating {
   margin-left: 5%;
